@@ -6,7 +6,7 @@ Passionate about Tech & Data | Aspiring Python Developer | Current TNT Commercia
 
 I am an enthusiastic and driven individual with a passion for technology seeking to transition into the tech field. Possessing a strong foundation in teamwork, data management, leadership, and problem-solving acquired through diverse experiences. Detail-oriented and communicative with a keen aptitude for planning and organization. Currently undergoing a CoGrammer data science course to enhance proficiency in Python programming and further develop skills relevant to the tech industry. Eager to leverage transferable skills and newfound technical expertise to contribute effectively to dynamic teams and projects within the tech sector.
 
-* 🌍  I'm based in Newcastle Upon Tyne
+* 🌍  I'm based in Newcastle Upon Tyne (UK)
 * ✉️  You can contact me at [A-C.1995@outlook.com](mailto:A-C.1995@outlook.com)
 * 🧠  I'm learning all the basics on my CoGrammer / Hyperdev Data Science Bootcamp
 
