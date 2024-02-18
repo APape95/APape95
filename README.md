@@ -8,7 +8,8 @@ I am an enthusiastic and driven individual with a passion for technology seeking
 
 * 🌍  I'm based in Newcastle Upon Tyne (UK)
 * ✉️  You can contact me at [A-C.1995@outlook.com](mailto:A-C.1995@outlook.com)
-* 🧠  I'm learning all the basics on my CoGrammer / Hyperdev Data Science Bootcamp
+* 🧠  Currently enrolled in a comprehensive data science bootcamp at HyperionDev, actively mastering foundational concepts and eager to apply newfound skills in real-world projects.
+  
 
 ### Skills
 
