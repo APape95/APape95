@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amy Pape
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amy
 ================================================================================================================================
-
-Passionate about Tech & Data | Aspiring Python Developer | Current TNT Commercial Sports Debt Lead
+Passionate about Tech & Data | Current TNT Commercial Sports Debt Lead
 --------------------------------------------------------------------------------------------------
 
 I am an enthusiastic and driven individual with a passion for technology seeking to transition into the tech field. Possessing a strong foundation in teamwork, data management, leadership, and problem-solving acquired through diverse experiences. Detail-oriented and communicative with a keen aptitude for planning and organization. Currently undergoing a CoGrammer data science course to enhance proficiency in Python programming and further develop skills relevant to the tech industry. Eager to leverage transferable skills and newfound technical expertise to contribute effectively to dynamic teams and projects within the tech sector.
