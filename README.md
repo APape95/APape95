@@ -1,14 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amy
 ================================================================================================================================
-Passionate about Tech & Data 
---------------------------------------------------------------------------------------------------
 
-I am an enthusiastic and driven individual with a passion for technology seeking to transition into the tech field. Possessing a strong foundation in teamwork, data management, leadership, and problem-solving acquired through diverse experiences. Detail-oriented and communicative with a keen aptitude for planning and organization. Currently undergoing a CoGrammer data science course to enhance proficiency in Python programming and further develop skills relevant to the tech industry. Eager to leverage transferable skills and newfound technical expertise to contribute effectively to dynamic teams and projects within the tech sector.
+I am assionate and driven, I bring a wealth of experience in customer service, account management, and leadership roles across various industries. I'm currently the Commercial Sports Debt Lead at TNT Sports, my primary focus is optimizing debt campaigns to minimize customer debt, with a background in complex billing issue resolution and account management, I excel in communicating effectively with diverse stakeholders.
+
+I'm currently enhancing my technical proficiency in SQL, Data Analysis, Data Modelling, Machine Learning, and Data Analytics through enrolment in a HyperionDev Data Science boot camp. Maintaining a consistent 100% pass rate, I'm poised to leverage these skills to excel in data-driven roles within the tech industry.
+
+Driven by a commitment to continuous learning and growth, I'm passionate about leveraging my transferable skills and technical expertise to thrive as a Data Analyst
+- - - - - - - - - - - - -
 
 * 🌍  I'm based in Newcastle Upon Tyne (UK)
 * ✉️  You can contact me at [A-C.1995@outlook.com](mailto:A-C.1995@outlook.com)
 * 🧠  Currently enrolled in a comprehensive data science bootcamp at HyperionDev, actively mastering foundational concepts and eager to apply newfound skills in real-world projects.
   
+- - - - - - - - - - - - -
 
 ### Skills
 
@@ -18,6 +22,8 @@ I am an enthusiastic and driven individual with a passion for technology seeking
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100082806396951" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/APape95" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/amy.p.1995" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amy-pape-0296592b2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+- - - - - - - - - - - - - 
 
 ### Badges
 
