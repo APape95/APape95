@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋<br>My name is Amy and I'm an aspiring Data Scientist from Newcaslte Upon Tyne, UK</h2>
+<h2 align="left">Hi 👋<br>My name is Amy, I'm an aspiring Data Scientist from Newcaslte Upon Tyne, UK</h2>
 
 ###
 
