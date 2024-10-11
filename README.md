@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋<br>
   
-  My name is Amy, I'm an aspiring Data Scientist from Newcaslte Upon Tyne, UK</h2>
+  I'm Amy, an aspiring Data Scientist based in Newcastle Upon Tyne, UK</h2>
 
 ###
 
-<p align="left">I am passionate and driven, I bring a wealth of experience in customer service, account management, and leadership roles across various industries. I'm currently the Commercial Sports Debt Analysis Lead at TNT Sports, my primary focus is optimizing debt campaigns to minimize customer debt, with a background in complex billing issue resolution and account management, I excel in communicating effectively with diverse stakeholders.<br><br>I'm currently enhancing my technical proficiency in SQL, Data Analysis, Data Modelling, Machine Learning, and Data Analytics through enrolment in a HyperionDev Data Science boot camp. Maintaining a consistent 100% pass rate, I'm poised to leverage these skills to excel in data-driven roles within the tech industry.<br><br>Driven by a commitment to continuous learning and growth, I'm passionate about leveraging my transferable skills and technical expertise to thrive as a Data Analyst</p>
+<p align="left">With a background in customer service, account management, and leadership, I bring a unique blend of skills to the data science field. Currently, I’m the Commercial Sports Debt Lead at TNT Sports, where I focus on optimizing debt campaigns and resolving complex billing issues. My role is all about turning data into actionable insights, making processes smoother, and keeping communication clear and effective with a range of stakeholders.<br><br>I'm also diving deeper into the world of Data Science through a bootcamp with HyperionDev, where I've maintained a 97% pass rate while enhancing my skills in SQL, Data Analysis, Data Modelling, Machine Learning, and more. My goal is to blend my experience and new technical skills to thrive in data-driven roles in the tech world.<br><br>I’m passionate about learning, growing, and using data to make a real impact. Always up for a challenge, I'm excited about where my journey in data science will take me next!</p>
 
 ###
 
@@ -38,12 +38,6 @@
   </a>
   <a href="https://outlook.live.com/mail/0/AQMkADAwATNiZmYAZC0zMwBkMy02MTAyLTAwAi0wMAoALgAAA%2FR810po6JZLlgAJSpl0uicBAKUNrB%2FNiFxNsgyL9voKJx8AAxOA8qsAAAA%3D?actSwt=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100082806396951" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/amy.p.1995/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
