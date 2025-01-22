@@ -7,15 +7,6 @@ With a background in customer service, account management, and leadership, I bri
 
 My approach is centred on continuous learning, creativity, and innovation, along with a deep understanding of the evolving tech landscape.
 
-👩‍💻 I'm currently working on Dashboard Creation and Maintenance
-
-🧠 I'm currently learning more SQL skills
-
-📫 How to reach me...
-A-C.1995@outlook.com
-
-
-
 ## 🛠 Skills
 ***Hard Skills:***
 Python, SQL, Data Analysis, Data Visualisation, Machine Learning, Data Cleaning and Transformation, Exploratory Data Analysis (EDA), Microsoft Excel, Dashboard Creation and Maintenance
