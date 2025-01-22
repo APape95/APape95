@@ -1,10 +1,14 @@
 <h2 align="left">Hi 👋<br>
   
-  I'm Amy, an aspiring Data Scientist based in Newcastle Upon Tyne, UK</h2>
+  I'm Amy, an aspiring Data proffessional based in Newcastle Upon Tyne, UK</h2>
 
 ###
 
-<p align="left">With a background in customer service, account management, and leadership, I bring a unique blend of skills to the data science field. Currently, I’m the Commercial Sports Debt Lead at TNT Sports, where I focus on optimizing debt campaigns and resolving complex billing issues. My role is all about turning data into actionable insights, making processes smoother, and keeping communication clear and effective with a range of stakeholders.<br><br>I'm also diving deeper into the world of Data Science through a bootcamp with HyperionDev, where I've maintained a 97% pass rate while enhancing my skills in SQL, Data Analysis, Data Modelling, Machine Learning, and more. My goal is to blend my experience and new technical skills to thrive in data-driven roles in the tech world.<br><br>I’m passionate about learning, growing, and using data to make a real impact. Always up for a challenge, I'm excited about where my journey in data science will take me next!</p>
+I am a data professional with a strong focus on data analytics and visualization, committed to transforming complex data into actionable insights.
+
+With a background in customer service, account management, and leadership, I bring a unique blend of technical and interpersonal skills to the data science field. I am passionate about optimizing processes and communicating effectively with a diverse range of stakeholders, ensuring clarity and alignment.
+
+My approach is centred on continuous learning, creativity, and innovation, along with a deep understanding of the evolving tech landscape.
 
 ###
 
