@@ -1,43 +1,19 @@
 # Hi, I'm Amy 👋  
 *(She/Her)*  
 
-I am a Data Analyst with expertise in **SQL, Python, and data visualisation**, currently working as a Statistician Data Analyst at Worldpay. I specialise in turning complex datasets into **clear, actionable insights** for stakeholders at all levels, from operational teams to board committees.  
+I’m a Data Analyst specialising in **SQL, Python, and Tableau**, currently working at Worldpay on operational MI and regulatory reporting. My focus is on building data solutions that improve decision-making, optimise workflows, and make insights accessible across all levels of an organisation.  
 
-My background in customer service, account management, and debt analytics means I combine **technical capability with strong communication skills**, making data accessible to both technical and non-technical audiences.  
-
-I am particularly interested in **business intelligence, workflow optimisation, and regulatory/compliance data analysis**, with a proven record of improving processes and enabling self-service analytics.  
-
----
-
-## 🛠 Skills  
-
-**Technical Skills**  
-- SQL (advanced querying, optimisation, data modelling)  
-- Python (pandas, NumPy, matplotlib, seaborn, scikit-learn)  
-- Data visualisation (Tableau, dashboards, KPI reporting)  
-- Machine Learning (regression, classification, NLP)  
-- Data cleaning, transformation, and EDA  
-- Workflow automation & optimisation  
-- Microsoft Excel (advanced)  
-- Git & version control  
-
-**Soft Skills**  
-- Problem-solving & analytical thinking  
-- Clear communication & stakeholder engagement  
-- Teamwork & cross-functional collaboration  
-- Adaptability & continuous learning  
+This GitHub is where I share projects that showcase:  
+- **SQL**: advanced queries, optimisation, and data modelling  
+- **Python**: data cleaning, EDA, and machine learning applications  
+- **Visualisation**: Tableau dashboards and KPI reporting  
+- **Workflow automation**: examples of time-saving processes  
 
 ---
 
 ## 🔗 Links  
 - [Portfolio](https://nickel-firewall-ddd.notion.site/Portfolio-11c9fd87eec380a48e67c782aa452c7a)  
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)  
-
----
-
-📌 *Currently building out my portfolio with anonymised SQL scripts, Python projects, and Tableau dashboards to demonstrate real-world applications of my skills.*  
-
-
 ###
 </div>
 
