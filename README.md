@@ -1,20 +1,43 @@
-# Hi, I'm Amy! 👋 
-***(She/Her)***
+# Hi, I'm Amy 👋  
+*(She/Her)*  
 
-I am a data professional with a strong focus on data analytics and visualization, committed to transforming complex data into actionable insights.
+I am a Data Analyst with expertise in **SQL, Python, and data visualisation**, currently working as a Statistician Data Analyst at Worldpay. I specialise in turning complex datasets into **clear, actionable insights** for stakeholders at all levels, from operational teams to board committees.  
 
-With a background in customer service, account management, and leadership, I bring a unique blend of technical and interpersonal skills to the data science field. I am passionate about optimizing processes and communicating effectively with a diverse range of stakeholders, ensuring clarity and alignment.
+My background in customer service, account management, and debt analytics means I combine **technical capability with strong communication skills**, making data accessible to both technical and non-technical audiences.  
 
-My approach is centred on continuous learning, creativity, and innovation, along with a deep understanding of the evolving tech landscape.
+I am particularly interested in **business intelligence, workflow optimisation, and regulatory/compliance data analysis**, with a proven record of improving processes and enabling self-service analytics.  
 
-## 🛠 Skills
-***Hard Skills:***
-Python, SQL, Data Analysis, Data Visualisation, Machine Learning, Data Cleaning and Transformation, Exploratory Data Analysis (EDA), Microsoft Excel, Dashboard Creation and Maintenance
+---
 
-***Soft Skills:***
-Problem-Solving, Communication, Teamwork, Adaptability
+## 🛠 Skills  
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nickel-firewall-ddd.notion.site/Portfolio-11c9fd87eec380a48e67c782aa452c7a) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amy-pape-0296592b2//)
+**Technical Skills**  
+- SQL (advanced querying, optimisation, data modelling)  
+- Python (pandas, NumPy, matplotlib, seaborn, scikit-learn)  
+- Data visualisation (Tableau, dashboards, KPI reporting)  
+- Machine Learning (regression, classification, NLP)  
+- Data cleaning, transformation, and EDA  
+- Workflow automation & optimisation  
+- Microsoft Excel (advanced)  
+- Git & version control  
+
+**Soft Skills**  
+- Problem-solving & analytical thinking  
+- Clear communication & stakeholder engagement  
+- Teamwork & cross-functional collaboration  
+- Adaptability & continuous learning  
+
+---
+
+## 🔗 Links  
+- [Portfolio](https://nickel-firewall-ddd.notion.site/Portfolio-11c9fd87eec380a48e67c782aa452c7a)  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)  
+- [GitHub Projects](#) *(coming soon)*  
+
+---
+
+📌 *Currently building out my portfolio with anonymised SQL scripts, Python projects, and Tableau dashboards to demonstrate real-world applications of my skills.*  
+
 
 ###
 </div>
