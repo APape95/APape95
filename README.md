@@ -32,7 +32,6 @@ I am particularly interested in **business intelligence, workflow optimisation, 
 ## 🔗 Links  
 - [Portfolio](https://nickel-firewall-ddd.notion.site/Portfolio-11c9fd87eec380a48e67c782aa452c7a)  
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)  
-- [GitHub Projects](#) *(coming soon)*  
 
 ---
 
