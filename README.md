@@ -1,7 +1,7 @@
 # Hi, I'm Amy 👋  
 *(She/Her)*  
 
-I’m a Data Analyst specialising in **SQL, Python, and Tableau**, currently working at Worldpay on operational MI and regulatory reporting. My focus is on building data solutions that improve decision-making, optimise workflows, and make insights accessible across all levels of an organisation.  
+I’m a Data Analyst specialising in AML, KYC/CDD and risk MI within financial services. Skilled in **SQL and Python** with experience building automated reporting frameworks, improving data quality and supporting regulatory reporting for large-scale pKYC transformation programmes. Strong background in risk analytics, data governance and stakeholder reporting across operations, compliance and senior leadership.
 
 This GitHub is where I share projects that showcase:  
 - **SQL**: advanced queries, optimisation, and data modelling  
